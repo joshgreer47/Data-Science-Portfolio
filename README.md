@@ -1,7 +1,3 @@
-# New Zealand Birth Rates Data Analysis Project
+# Josh Greer's Data Science Portfolio
 
-This project is a short analysis of New Zealand birth rates over time, and some factors that might be influencing it. The project was created in a Jupyter notebook, using Python, and libraries such as pandas, numpy, seaborn, and matplotlib. 
-
-All data was collected from: https://infoshare.stats.govt.nz/infoshare/default.aspx?RedirectReason=session_expired
-
-The main finding from my analysis is that there appears to be a negative relationship between the participation rates of Women in the work force and birth rates. However, there appear to be other influences that I didn't account for in my analysis, as the decrease in birth rates is proportionately much higher than the increase in labour force particiaption. 
+My name's Josh Greer, I'm a 4th year student studying at the University of Otago. Here's a small portfolio of Data Science projects I've worked on over the course of my studies and in my own time. 
